@@ -14,7 +14,7 @@ My name is Omar Saber, I am an Egyptian software engineer specialized as a fulls
 I am looking forward to learning about new technologies and gain more knowledge .
 <br />
 
-### Get in touch 📬 !
+ Get in touch 📬 !
 <br />
 gmail : osaber218@gmail.com
 <br />
