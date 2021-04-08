@@ -6,13 +6,13 @@
 
 Hey 👋🏻
 
-
+<br />
 
 My name is Omar Saber, I am an Egyptian software engineer specialized as a fullstack web developer 💻.
 
-
+<br />
 I am looking forward to learning about new technologies and gain more knowledge .
-
+<br />
 
  📬 ### Get in touch !
 gmail : osaber218@gmail.com
